@@ -1,0 +1,3 @@
+# Statuses
+
+HTTP statuses.
